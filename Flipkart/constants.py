@@ -4,6 +4,10 @@ PASSWORD = "Manu@1593"
 
 CHROME_DRIVER_PATH = "C:\chromedriver.exe"
 
+#manu created part 2
+
+
 
 
 #vhkjfbvbfjvbjfvjfjvnvkncvjbcjv
+
