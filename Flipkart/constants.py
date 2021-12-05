@@ -1,13 +1,6 @@
 URL = "https://www.flipkart.com/"
-EMAIL_ID = "manohar111r@gmail.com"
-PASSWORD = "Manu@1593"
-
+EMAIL_ID = "9008000262" #Email Id is not shared as per the guidelines
+PASSWORD = "FlipAuto@123" #Password is not shared as per the guidelines
 CHROME_DRIVER_PATH = "C:\chromedriver.exe"
-
-#manu created part 2
-
-
-
-
-#vhkjfbvbfjvbjfvjfjvnvkncvjbcjv
+PATH = "D:\Flipkart_Project\Flipkart\product.png"
 
