@@ -12,6 +12,7 @@ login_submit_xpath ="(//button[@type='submit'])[2]"
 search_textbox_xpath = "//*[@type='text' and @name='q']"
 search_dynamic_pop_up ="//li"
 page_num_xpath = "//nav//a[{}]"
+dummy_loc = ""
 
 #product page
 product = "//div[starts-with(@style,'flex-grow')]//div[@class='_1AtVbE col-12-12'][{}]"
