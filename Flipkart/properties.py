@@ -1,5 +1,8 @@
 
-"""This file contains all locators related to Flipkart page"""
+"""
+Author:Manohar and Aparna
+This file contains all locators related to Flipkart page
+"""
 
 #login page
 login_main_button = "//*[text()='Login']"
